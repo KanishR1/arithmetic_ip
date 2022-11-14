@@ -1,0 +1,133 @@
+$date
+	Mon Nov 14 08:22:19 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_comp $end
+$var wire 1 ! L $end
+$var wire 1 " G $end
+$var wire 1 # E $end
+$var reg 2 $ A [1:0] $end
+$var reg 2 % B [1:0] $end
+$var integer 32 & i [31:0] $end
+$var integer 32 ' j [31:0] $end
+$scope module DUT $end
+$var wire 2 ( A [1:0] $end
+$var wire 2 ) B [1:0] $end
+$var wire 1 # E $end
+$var wire 1 " G $end
+$var wire 1 ! L $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b0 )
+b0 (
+b0 '
+b0 &
+b0 %
+b0 $
+1#
+0"
+0!
+$end
+#10
+0#
+1!
+b1 %
+b1 )
+b1 '
+#20
+b10 %
+b10 )
+b10 '
+#30
+b11 %
+b11 )
+b11 '
+#40
+1"
+0!
+b0 %
+b0 )
+b1 $
+b1 (
+b1 &
+b0 '
+#50
+1#
+0"
+b1 %
+b1 )
+b1 '
+#60
+0#
+0"
+1!
+b10 %
+b10 )
+b10 '
+#70
+b11 %
+b11 )
+b11 '
+#80
+1"
+0!
+b0 %
+b0 )
+b10 $
+b10 (
+b10 &
+b0 '
+#90
+b1 %
+b1 )
+b1 '
+#100
+1#
+0"
+b10 %
+b10 )
+b10 '
+#110
+0#
+1!
+b11 %
+b11 )
+b11 '
+#120
+1"
+0!
+b0 %
+b0 )
+b11 $
+b11 (
+b11 &
+b0 '
+#130
+b1 %
+b1 )
+b1 '
+#140
+1"
+b10 %
+b10 )
+b10 '
+#150
+1#
+0"
+b11 %
+b11 )
+b11 '
+#160
+b100 &
+b100 '
